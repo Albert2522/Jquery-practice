@@ -1,0 +1,33 @@
+li {
+  height: 75px;
+}
+
+.rcorners1 {
+    margin: auto;
+    margin-bottom: 15px;
+    border-radius: 25px;
+    background: #73AD21;
+    padding: 20px;
+    width: 75px;
+    height: 20px;
+}
+
+.rcorners2 {
+    margin: auto;
+    margin-bottom: 15px;
+    border-radius: 25px;
+    background: #73AD21;
+    padding: 20px;
+    width: 100px;
+    height: 20px;
+}
+
+.rcorners3 {
+    margin: auto;
+    margin-bottom: 15px;
+    border-radius: 25px;
+    background: #73AD21;
+    padding: 20px;
+    width: 125px;
+    height: 20px;
+}
